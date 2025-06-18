@@ -13,7 +13,7 @@ last_modified_at: 2025-06-18 18:00:00 +0200
 
 ### Peer Reviewer (Sub-reviewer)
 
-*   **CAV** (International Conference on Computer-Aided Verification): [[2023]](http://www.i-cav.org/2023/)
+*   **CAV** (International Conference on Computer-Aided Verification): [[2023]](https://www.i-cav.org/2023/)
 *   **CONCUR** (International Conference on Concurrency Theory): [[2020]](https://concur2020.forsyte.at/)
 *   **FMCAD** (Formal Methods in Computer-Aided Design): [[2022]](https://fmcad.org/FMCAD22/), [[2023]](https://fmcad.org/FMCAD23/), [[2024]](https://fmcad.org/FMCAD24/)
 *   **FM** (International Symposium on Formal Methods): [[2024]](https://www.fm24.polimi.it/)
@@ -25,6 +25,6 @@ last_modified_at: 2025-06-18 18:00:00 +0200
 
 ### Artifact Evaluation Committee Member
 
-*   **CAV** (International Conference on Computer-Aided Verification): [[2021]](http://i-cav.org/2021/), [[2023]](http://www.i-cav.org/2023/)
+*   **CAV** (International Conference on Computer-Aided Verification): [[2021]](https://i-cav.org/2021/), [[2023]](https://www.i-cav.org/2023/)
 *   **TACAS** (International Conference on Tools and Algorithms for the Construction and Analysis of Systems): [[2023]](https://etaps.org/2023/tacas/), [[2024]](https://etaps.org/2024/tacas/)
 *   **VMCAI** (International Conference on Verification, Model Checking, and Abstract Interpretation): [[2024]](https://popl24.sigplan.org/home/VMCAI-2024), [[2025]](https://conf.researchr.org/home/VMCAI-2025)

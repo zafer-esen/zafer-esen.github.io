@@ -34,7 +34,6 @@ I have been fortunate to contribute to several open-source academic projects. Be
     <div class="mt-2">
       <a href="https://github.com/uuverifiers/princess" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">Source Code</a>
       <a href="https://eldarica.org/princess" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">Web Interface</a>
-      <a href="http://www.philipp.ruemmer.org/princess.shtml" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">Website</a>
     </div>
   </li>
 </ul>

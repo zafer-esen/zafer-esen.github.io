@@ -41,7 +41,7 @@ last_modified_at: 2025-06-18
     <strong>Extension of the Eldarica C model checker with heap memory</strong><br>
     <em>Zafer Esen</em>. MSc Thesis, Uppsala University.
     <div class="mt-2 mb-3">
-      <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-397812" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">URL</a>
+      <a href="https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-397812" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">URL</a>
       <a href="https://uu.diva-portal.org/smash/get/diva2:1373067/FULLTEXT01.pdf" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">PDF</a>
       <button class="btn btn-sm btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#abs-esen2019msc">Abstract</button>
       <button class="btn btn-sm btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#bib-esen2019msc">BibTeX</button>
@@ -147,7 +147,7 @@ url="https://doi.org/10.1007/978-3-031-55608-1_13"
     <span class="badge bg-secondary float-end">2023</span>
     <span class="badge bg-warning text-dark float-end me-1">Distinguished Paper</span>
     <strong>Automatic Program Instrumentation for Automatic Verification</strong><br>
-    <em>J. Amilon, Z. Esen, D. Gurov, C. Lidstöm, P. Rümmer</em>. In: Int. Conf. on Computer-Aided Verification (<a href="http://www.i-cav.org/2023/" target="_blank" rel="noopener">CAV 2023</a>).
+    <em>J. Amilon, Z. Esen, D. Gurov, C. Lidstöm, P. Rümmer</em>. In: Int. Conf. on Computer-Aided Verification (<a href="https://www.i-cav.org/2023/" target="_blank" rel="noopener">CAV 2023</a>).
     <div class="mt-2 mb-3">
       <a href="https://link.springer.com/chapter/10.1007/978-3-031-37709-9_14" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">URL</a>
       <a href="https://arxiv.org/abs/2306.00004" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">URL (extended preprint)</a>
@@ -230,7 +230,7 @@ isbn="978-3-031-37709-9"
     <em>Zafer Esen, Philipp Rümmer</em>. In: Logic-Based Program Synthesis and Transformation (<a href="https://link.springer.com/chapter/10.1007/978-3-030-68446-4_9" target="_blank" rel="noopener">LOPSTR 2020</a>). (Invited Paper)
     <div class="mt-2 mb-3">
       <a href="https://link.springer.com/chapter/10.1007/978-3-030-68446-4_9" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">URL</a>
-      <a href="http://www.philipp.ruemmer.org/publications/lopstr2020.pdf" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">PDF (preprint)</a>
+      <a href="/assets/pdf/lopstr2020.pdf" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">PDF (preprint)</a>
       <button class="btn btn-sm btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#abs-esen2021reasoning">Abstract</button>
       <button class="btn btn-sm btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#bib-esen2021reasoning">BibTeX</button>
     </div>
@@ -300,7 +300,7 @@ isbn="978-3-030-68446-4"
   <li>
     <span class="badge bg-secondary float-end">2021</span>
     <strong>A Theory of Heap for Constrained Horn Clauses</strong><br>
-    <em>Zafer Esen, Philipp Rümmer</em>. Abstract at 32nd Nordic Workshop on Programming Theory (<a href="http://icetcs.ru.is/nwpt21/" target="_blank" rel="noopener">NWPT 2021</a>).
+    <em>Zafer Esen, Philipp Rümmer</em>. Abstract at 32nd Nordic Workshop on Programming Theory (<a href="https://icetcs.github.io/nwpt21" target="_blank" rel="noopener">NWPT 2021</a>).
     <div class="mt-2 mb-3">
       <a href="https://icetcs.github.io/nwpt21/abstracts/paper26.pdf" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">PDF</a>
       <button class="btn btn-sm btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#bib-esen2021nwpt">BibTeX</button>
@@ -315,7 +315,7 @@ isbn="978-3-030-68446-4"
   <li>
     <span class="badge bg-secondary float-end">2020</span>
     <strong>Towards an SMT-LIB Theory of Heap</strong><br>
-    <em>Zafer Esen, Philipp Rümmer</em>. Presentation only abstract in 18th International Workshop on Satisfiability Modulo Theories (<a href="http://smt-workshop.cs.uiowa.edu/2020/program.shtml" target="_blank" rel="noopener">SMT 2020</a>).
+    <em>Zafer Esen, Philipp Rümmer</em>. Presentation only abstract in 18th International Workshop on Satisfiability Modulo Theories (<a href="https://smt-workshop.cs.uiowa.edu/2020/program.shtml" target="_blank" rel="noopener">SMT 2020</a>).
     <div class="mt-2 mb-3">
       <a href="https://ceur-ws.org/Vol-2854/abstract4.pdf" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">PDF</a>
       <a href="https://www.youtube.com/live/B3ML9vGituk?si=7gFe9lPV2OTfBfgT&t=2567" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">Talk (YouTube)</a>

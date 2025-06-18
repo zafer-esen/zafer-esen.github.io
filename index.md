@@ -11,7 +11,7 @@ I am a computer scientist specializing in automated reasoning and formal methods
 
 I recently completed my PhD at Uppsala University, where my research focused on the formal verification of programs with complex heap-allocated data structures, using techniques in Horn-based model checking and SMT solving.
 
-Prior to my PhD studies, I also worked on designing and implementing embedded systems and mechatronic control systems for over six years in the defense industry.
+Prior to my PhD studies, I also worked as a control and embedded systems design engineer for over six years in the industry.
 
 <div class="mt-4">
     <a href="/assets/pdf/cv.pdf" class="btn btn-secondary me-2 mb-2" target="_blank" rel="noopener">

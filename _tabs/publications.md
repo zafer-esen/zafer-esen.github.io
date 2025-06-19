@@ -4,10 +4,10 @@ title: "Publications and Talks"
 permalink: /publications/
 icon: fas fa-file-alt
 order: 2
-last_modified_at: 2025-06-18
+last_modified_at: 2025-06-19
 ---
 
-### <i class="fas fa-book"></i>  Theses
+### Theses
 
 <ul>
   <li>
@@ -62,7 +62,7 @@ last_modified_at: 2025-06-18
   </li>
 </ul>
 
-### <i class="fas fa-file-alt"></i>  Peer-Reviewed Publications
+### Peer-Reviewed Publications
 
 <ul>
   <li>
@@ -251,7 +251,7 @@ isbn="978-3-030-68446-4"
   </li>
 </ul>
 
-### <i class="fas fa-file-archive"></i>  Technical Reports & Abstracts
+### Technical Reports & Abstracts
 
 <ul>
   <li>
@@ -323,7 +323,7 @@ isbn="978-3-030-68446-4"
   </li>
 </ul>
 
-### <i class="fas fa-bullhorn"></i>  Invited Talks
+### Invited Talks
 
 <ul>
   <li>

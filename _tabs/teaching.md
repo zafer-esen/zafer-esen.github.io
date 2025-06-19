@@ -4,10 +4,10 @@ title: "Teaching and Supervision"
 permalink: /teaching/
 icon: fas fa-chalkboard-teacher
 order: 3
-last_modified_at: 2025-06-18
+last_modified_at: 2025-06-19
 ---
 
-### <i class="fas fa-chalkboard"></i>  Courses
+### Courses
 
 <ul>
   <li>
@@ -39,7 +39,7 @@ last_modified_at: 2025-06-18
   </li>
 </ul>
 
-### <i class="fas fa-user-graduate"></i>  Student Supervision
+### Student Supervision
 
 I have had the pleasure of supervising or co-supervising the following student thesis projects:
 

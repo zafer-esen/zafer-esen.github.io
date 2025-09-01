@@ -3,11 +3,11 @@ layout: page
 # Index page
 title: #Zafer Esen
 permalink: /
-date: 2025-06-18
-last_modified_at: 2025-06-18 15:28:00 +0200
+#date: 2025-06-18
+last_modified_at: 2025-09-01
 ---
 
-I am a computer scientist specializing in automated reasoning and formal methods.
+I am a computer scientist specializing in automated reasoning and formal methods, currently serving as an Acting Senior Lecturer (Swedish: Vikarierande universitetslektor) at Uppsala University.
 
 I recently completed my PhD at Uppsala University, where my research focused on the formal verification of programs with complex heap-allocated data structures, using techniques in Horn-based model checking and SMT solving.
 

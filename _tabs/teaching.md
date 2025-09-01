@@ -4,7 +4,7 @@ title: "Teaching and Supervision"
 permalink: /teaching/
 icon: fas fa-chalkboard-teacher
 order: 3
-last_modified_at: 2025-06-19
+last_modified_at: 2025-09-01
 ---
 
 ### Courses
@@ -13,7 +13,7 @@ last_modified_at: 2025-06-19
   <li>
     <strong><a href="https://www.uu.se/en/study/course?query=1DT034" target="_blank" rel="noopener">Programming Theory (1DT034)</a></strong>
     <div class="my-1">
-      <strong>Role:</strong> Teacher (2021-2024), Teaching Assistant (2019-2020)
+      <strong>Role:</strong> Teacher (2021-2025), Teaching Assistant (2019-2020)
     </div>
     <p class="text small">
       This course introduces the principles of program analysis and verification, including logic, formal specifications, and program proofs using Hoare logic.
@@ -45,13 +45,14 @@ I have had the pleasure of supervising or co-supervising the following student t
 
 <ul>
   <li>
-    <span class="badge bg-success float-end">In Progress</span>
+    <!--span class="badge bg-success float-end">In Progress</span-->
+    <span class="badge bg-secondary float-end">2025</span>
     <span class="badge bg-primary float-end me-1">MSc</span>
     <strong>Daniel Wallgren</strong>
     <br><em>Evaluating Symbolic Execution Strategies on Constrained Horn Clauses</em>
   </li>
   <li>
-    <span class="badge bg-success float-end">In Progress</span>
+    <span class="badge bg-secondary float-end">2025</span>
     <span class="badge bg-info text-dark float-end me-1">BSc</span>
     <strong>Kalle Nordgren</strong>
     <br><em>Graph-Based Clausification for Eldarica</em>

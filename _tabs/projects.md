@@ -4,6 +4,7 @@ title: Projects & Tools
 permalink: /projects/
 icon: fas fa-tools
 order: 4
+last_modified_at: 2025-06-18 18:00:00 +0200
 ---
 
 I have been fortunate to contribute to several open-source academic projects. Below are some of the tools I have worked on over the years.

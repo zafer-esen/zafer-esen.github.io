@@ -4,7 +4,7 @@ layout: page
 title: #Zafer Esen
 permalink: /
 #date: 2025-06-18
-last_modified_at: 2025-09-01
+last_modified_at: 2026-03-11
 ---
 
 I am a computer scientist specializing in automated reasoning and formal methods, currently serving as an Acting Senior Lecturer (Swedish: Vikarierande universitetslektor) at Uppsala University.

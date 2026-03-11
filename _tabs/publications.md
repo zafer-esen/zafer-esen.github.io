@@ -4,7 +4,7 @@ title: "Publications and Talks"
 permalink: /publications/
 icon: fas fa-file-alt
 order: 2
-last_modified_at: 2025-06-19
+last_modified_at: 2026-03-11
 ---
 
 ### Theses
@@ -66,10 +66,33 @@ last_modified_at: 2025-06-19
 
 <ul>
   <li>
-    <span class="badge bg-secondary float-end">2025</span>
+    <span class="badge bg-secondary float-end">2026</span>
+    <!-- <span class="badge bg-light text-dark float-end me-1">Under Submission</span> -->
     <span class="badge bg-success float-end me-1">To Appear</span>
+    <strong>Sound and Complete Invariant-Based Heap Encodings</strong><br>
+    <em>Zafer Esen, Philipp Rümmer, Tjark Weber</em>. In: Proceedings of the ACM on Programming Languages (PACMPL), Volume 10, Issue <a href="https://conf.researchr.org/track/splash-2026/oopsla-2026" target="_blank" rel="noopener">OOPSLA1</a>, 2026.
+    <div class="mt-2 mb-3">
+      <a href="https://arxiv.org/abs/2504.15844" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">URL</a>
+      <a href="https://arxiv.org/pdf/2504.15844" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">Preprint</a>
+      <button class="btn btn-sm btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#abs-esen2026sound">Abstract</button>
+      <button class="btn btn-sm btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#bib-esen2026sound">BibTeX</button>
+    </div>
+    <div class="collapse" id="abs-esen2026sound"><div class="card card-body bg-light text-dark p-3"><em>Verification of programs operating on heap-allocated data structures, for instance lists or trees, poses significant challenges due to the potentially unbounded size of such data structures. We present time-indexed heap invariants, a novel invariant-based heap encoding leveraging uninterpreted predicates and prophecy variables to reduce verification of heap-manipulating programs to verification of programs over integers only. Our encoding of heap is general and agnostic to specific data structures. To the best of our knowledge, our approach is the first heap invariant-based method that achieves both soundness and completeness. We provide formal proofs establishing the correctness of our encodings. Through an experimental evaluation, we demonstrate that time-indexed heap invariants significantly extend the capability of existing verification tools, allowing automatic verification of programs with heap that were previously out of reach for state-of-the-art tools. </em></div></div>
+    <div class="collapse" id="bib-esen2026sound"><pre class="card card-body bg-light text-dark p-3">{% raw %}@article{esen2026soundcompleteinvariantbasedheap,
+      title={Sound and Complete Invariant-Based Heap Encodings}, 
+      author={Zafer Esen and Philipp Rümmer and Tjark Weber},
+      journal={Proc. ACM Program. Lang.},
+      volume={10},
+      number={OOPSLA1},
+      year={2026},
+      note={To appear}
+}{% endraw %}</pre></div>
+  </li>
+  <li>
+    <span class="badge bg-secondary float-end">2025</span>
+    <!-- <span class="badge bg-success float-end me-1">To Appear</span> -->
     <strong>Arithmetizing Shape Analysis</strong><br>
-    <em>S. Wolff, E. Gupta, Z. Esen, H. Hojjat, P. Rümmer, T. Wies</em>. In: International Conference on Computer-Aided Verification (<a href="#" target="_blank" rel="noopener">CAV 2025</a>).
+    <em>S. Wolff, E. Gupta, Z. Esen, H. Hojjat, P. Rümmer, T. Wies</em>. In: International Conference on Computer-Aided Verification (<a href="https://conferences.i-cav.org/2025/" target="_blank" rel="noopener">CAV 2025</a>).
     <div class="mt-2 mb-3">
       <a href="https://arxiv.org/pdf/2408.09037" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">URL (preprint)</a>
       <a href="https://arxiv.org/pdf/2408.09037" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">PDF (preprint)</a>
@@ -82,13 +105,12 @@ last_modified_at: 2025-06-19
   author    = {Sebastian Wolff and Ekanshdeep Gupta and Zafer Esen and Hossein Hojjat and Philipp R{\"u}mmer and Thomas Wies},
   booktitle = {CAV},
   year      = {2025},
-  note      = {To appear}
 }{% endraw %}</pre></div>
   </li>
   <li>
     <span class="badge bg-secondary float-end">2025</span>
     <strong>Finding Universally Quantified Heap Invariants by Horn Clause Transformations</strong><br>
-    <em>Zafer Esen, Philipp Rümmer, Tjark Weber</em>. In: International Conference on Fundamentals of Software Engineering (<a href="#" target="_blank" rel="noopener">FSEN 2025</a>).
+    <em>Zafer Esen, Philipp Rümmer, Tjark Weber</em>. In: International Conference on Fundamentals of Software Engineering (<a href="https://conf.researchr.org/home/fsen-2025" target="_blank" rel="noopener">FSEN 2025</a>).
     <div class="mt-2 mb-3">
       <a href="https://link.springer.com/chapter/10.1007/978-3-031-87054-5_4" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">URL</a>
       <button class="btn btn-sm btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#abs-esen2025finding">Abstract</button>
@@ -254,28 +276,6 @@ isbn="978-3-030-68446-4"
 ### Technical Reports & Abstracts
 
 <ul>
-  <li>
-    <span class="badge bg-secondary float-end">2025</span>
-    <span class="badge bg-light text-dark float-end me-1">Under Submission</span>
-    <strong>Sound and Complete Invariant-Based Heap Encodings (Technical Report)</strong><br>
-    <em>Zafer Esen, Philipp Rümmer, Tjark Weber</em>.
-    <div class="mt-2 mb-3">
-      <a href="https://arxiv.org/abs/2504.15844" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">URL</a>
-      <a href="https://arxiv.org/pdf/2504.15844" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">PDF</a>
-      <button class="btn btn-sm btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#abs-esen2025sound">Abstract</button>
-      <button class="btn btn-sm btn-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#bib-esen2025sound">BibTeX</button>
-    </div>
-    <div class="collapse" id="abs-esen2025sound"><div class="card card-body bg-light text-dark p-3"><em>Verification of programs operating on mutable, heap-allocated data structures poses significant challenges due to potentially unbounded structures like linked lists and trees. In this paper, we present a novel relational heap encoding leveraging uninterpreted predicates and prophecy variables, reducing heap verification tasks to satisfiability checks over integers in constrained Horn clauses (CHCs). To the best of our knowledge, our approach is the first invariant-based method that achieves both soundness and completeness for heap-manipulating programs. We provide formal proofs establishing the correctness of our encodings. Through an experimental evaluation we demonstrate that our method significantly extends the capability of existing CHC-based verification tools, allowing automatic verification of programs with heap previously unreachable by state-of-the-art tools. </em></div></div>
-    <div class="collapse" id="bib-esen2025sound"><pre class="card card-body bg-light text-dark p-3">{% raw %}@misc{esen2025soundcompleteinvariantbasedheap,
-      title={Sound and Complete Invariant-Based Heap Encodings (Technical Report)}, 
-      author={Zafer Esen and Philipp Rümmer and Tjark Weber},
-      year={2025},
-      eprint={2504.15844},
-      archivePrefix={arXiv},
-      primaryClass={cs.LO},
-      url={https://arxiv.org/abs/2504.15844}, 
-}{% endraw %}</pre></div>
-  </li>
   <li>
     <span class="badge bg-secondary float-end">2021</span>
     <strong>A Theory of Heap for Constrained Horn Clauses (Extended Technical Report)</strong><br>

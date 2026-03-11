@@ -4,8 +4,12 @@ title: Service
 permalink: /service/
 icon: fas fa-hands-helping
 order: 4
-last_modified_at: 2025-06-18 18:00:00 +0200
+last_modified_at: 2026-03-11 18:00:00 +0200
 ---
+
+### Program Co-Chair
+
+*   **HCVS** (13th Workshop on Horn Clauses for Verification and Synthesis): [[2026]](https://www.sci.unich.it/hcvs26/)
 
 ### Program Committee Member
 
@@ -25,6 +29,6 @@ last_modified_at: 2025-06-18 18:00:00 +0200
 
 ### Artifact Evaluation Committee Member
 
-*   **CAV** (International Conference on Computer-Aided Verification): [[2021]](https://i-cav.org/2021/), [[2023]](https://www.i-cav.org/2023/)
+*   **CAV** (International Conference on Computer-Aided Verification): [[2021]](https://i-cav.org/2021/), [[2023]](https://www.i-cav.org/2023/), [[2026]](https://conferences.i-cav.org/2026/artifacts/)
 *   **TACAS** (International Conference on Tools and Algorithms for the Construction and Analysis of Systems): [[2023]](https://etaps.org/2023/tacas/), [[2024]](https://etaps.org/2024/tacas/)
 *   **VMCAI** (International Conference on Verification, Model Checking, and Abstract Interpretation): [[2024]](https://popl24.sigplan.org/home/VMCAI-2024), [[2025]](https://conf.researchr.org/home/VMCAI-2025)

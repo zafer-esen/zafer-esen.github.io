@@ -4,7 +4,7 @@ title: "Teaching and Supervision"
 permalink: /teaching/
 icon: fas fa-chalkboard-teacher
 order: 3
-last_modified_at: 2025-09-01
+last_modified_at: 2026-03-11
 ---
 
 ### Courses
@@ -56,6 +56,10 @@ I have had the pleasure of supervising or co-supervising the following student t
     <span class="badge bg-info text-dark float-end me-1">BSc</span>
     <strong>Kalle Nordgren</strong>
     <br><em>Graph-Based Clausification for Eldarica</em>
+    <div class="mt-2">
+        <a href="https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-576859" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">URL</a>
+        <a href="https://uu.diva-portal.org/smash/get/diva2:2029640/FULLTEXT01.pdf" class="btn btn-sm btn-secondary" target="_blank" rel="noopener">PDF</a>
+    </div>
   </li>
   <li>
     <span class="badge bg-secondary float-end">2024</span>
